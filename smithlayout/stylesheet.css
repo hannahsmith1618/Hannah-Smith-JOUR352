@@ -1,15 +1,28 @@
 #content {
-  margin: 0 auot;
-  width: 900px;
+  margin: 0 auto;
+  width: 900px; 
+  font-family: 'Open Sans', sans-serif;
 }
+
 
 #byline {
 font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
+}
+
+#headline{
+
+}
 
 BODY {
+font-family: 'Open Sans', sans-serif;
+font-size: 13px;
+}
 
-  font-family: 'Georgia'
-  
+
+blockquote {
+  font-size: 30px
+
+
 }
