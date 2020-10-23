@@ -1,0 +1,50 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+/* I built this webpage!! */
+
+BODY {
+font-family: Helvetica, sans-serif;
+font-size: 13px;
+}
+
+#headline {
+  font-family: Helvetica, san-sans-serif;
+}
+
+#byline {
+font-style: italic;
+font-size: 13px;
+margin-top: 0;
+margin: auto;
+  }
+
+  blockquote {
+    font-size: 30px;
+    font-style: bold;
+    color: red;
+    text-decoration: underline;
+
+  }
+
+  #image {
+    display: block;
+    margin: 10px auto 20px;
+
+  }
+
+  #caption {
+    margin-top: 0;
+    font-style: italic;
+    font-size: 13px;
+    width: 500px;
+    margin: 10px auto 20px;
+  }
+
+  .menu {
+    margin: 0px;
+    padding: 0px;
+
+  }
