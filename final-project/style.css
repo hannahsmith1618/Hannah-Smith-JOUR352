@@ -1,0 +1,85 @@
+#headline {
+ font-size: 2em;
+ font-weight: 700;
+ text-align: center;
+ font-family: serif, sans-serif;
+ padding-bottom: 30px;
+}
+
+p {
+  font-family: sans-serif;
+  line-height: 180%;
+  font-size: 1em;
+}
+
+#caption {
+  margin-top: 0;
+  font-style: italic;
+  font-size: 13px;
+  width: 800px;
+  margin: 10px auto 20px;
+}
+
+#image {
+  display: block;
+  margin: 10px auto 20px;
+
+}
+
+blockquote {
+  font-size: 40px;
+  font-style: bold;
+  color: red;
+
+
+}
+.nav-top {
+  color: white;
+  text-transform: uppercase;
+}
+
+.red {
+  color: #f23030;
+}
+
+/* Hero/Splash area */
+
+.hero-container {
+  position: relative;
+  text-align: center;
+  color: #fff;
+}
+
+.hero-image {
+  width:100%;
+}
+
+.overlay {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  background-color: black;
+  opacity: .6;
+}
+
+.hero-head {
+  font-family: 'Playfair Display', serif;
+  font-size: 4em;
+  color: white;
+  padding-bottom: 10px;
+}
+
+
+.sidebar {
+  width: 0 auto;
+
+}
+
+/* Media Query */
+
+@media (max-width:700px) {
+
+  .hero-head {
+    font-size:1.5em;
+  }
+}
