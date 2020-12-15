@@ -27,11 +27,14 @@ p {
 }
 
 blockquote {
-  font-size: 40px;
+  font-size: 30px;
   font-style: bold;
-  color: red;
+  color: #700000 ;
 
+}
 
+.photo {
+  padding-bottom: 30px;
 }
 .nav-top {
   color: white;
